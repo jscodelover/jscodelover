@@ -8,7 +8,7 @@ Happy to see you here.
 - :green_book: I'm currently reading You Don’t Know JS.
 - ✍️ Write stuff on [Medium](https://medium.com/@jscodelover), [Dev.to](https://dev.to/jscodelover).
 - 💬 Ask me about anything [here](https://twitter.com/jscodelover), I'm happy to help!
-- You can find me on web:  ***@jscodelover***
+- :earth_asia: You can find me on web:  ***@jscodelover***
 
 <!--
 **jscodelover/jscodelover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
