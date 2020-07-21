@@ -10,6 +10,11 @@ Happy to see you here.
 - 💬 Ask me about anything [here](https://twitter.com/jscodelover), I'm happy to help!
 - :earth_asia: You can find me on web:  ***@jscodelover***
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jscodelover/count.svg" />
+</p>
+
 <!--
 **jscodelover/jscodelover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
