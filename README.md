@@ -3,9 +3,9 @@
 Happy to see you here. 
 
 - 💻 I'm a passionate self taught Front End Developer from India. 
-- 🌱 I’m currently learning React Testing.
+- 🌱 I’m currently learning NextJs.
 - 🤔 I’m looking for help with React SSR.
-- :green_book: I'm currently reading You Don’t Know JS.
+- :green_book: I'm currently reading Atomic habits.
 - ✍️ Write stuff on [Medium](https://medium.com/@jscodelover), [Dev.to](https://dev.to/jscodelover).
 - 💬 Ask me about anything [here](https://twitter.com/jscodelover), I'm happy to help!
 - :earth_asia: You can find me on web:  ***@jscodelover***
