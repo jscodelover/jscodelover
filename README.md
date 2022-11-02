@@ -4,7 +4,7 @@ Happy to see you here.
 
 - 💻 I'm a passionate self taught Front End Developer from India. 
 - 🌱 I’m currently learning NextJs.
-- :green_book: I'm currently reading Atomic habits.
+- :green_book: I'm currently reading Ikigai: The Japanese Secret to a Long and Happy Life.
 - ✍️ Write stuff on [Medium](https://medium.com/@jscodelover), [Dev.to](https://dev.to/jscodelover).
 - 💬 Ask me about anything [here](https://twitter.com/jscodelover), I'm happy to help!
 - :earth_asia: You can find me on web:  ***@jscodelover***
