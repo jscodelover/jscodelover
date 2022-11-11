@@ -105,25 +105,25 @@ Here are some ideas to get you started:
 </center>
 - **web Hosting Platforms**
 <center>
-<table>
-	<tbody>
-		<tr>
-		<td width="25%" align="center">
+	<table>
+		<tbody>
+			<tr>
+				<td width="25%" align="center">
 					<span><strong>Heroku</strong></span><br/>
 					<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 					</td>
-		<td width="25%" align="center">
+				<td width="25%" align="center">
 					<span><strong>Netlify</strong></span><br/>
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
 					</td>
 
-		<td width="25%" align="center">
+				<td width="25%" align="center">
 					<span><strong>Github pages</strong></span><br/>
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
 					</td>
-		</tr>
-	</tbody>
-</table>
+			</tr>
+		</tbody>
+	</table>
 </center>
 - **Designing Softwares:**
 <center>
@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 					</td>
 
 	</tr>
-</tbody>
+	</tbody>
 </table>
 </center>
 <!-- GitHub Skills end -->
