@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Manisha Basra</h1>
 <h3 align="center">A passionate FrontEnd Engineer from India</h3>
 
-<p align="left"> <a
+<p align="center"> <a
 			href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jscodelover" alt="jscodelover" /></a>
 	</p>
 
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 	</tbody>
 </table>
 </center>
-- **Others**
+- **Others
 <center>
 	<table>
 		<tbody>
