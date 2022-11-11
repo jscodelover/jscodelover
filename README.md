@@ -69,23 +69,6 @@ Here are some ideas to get you started:
 
 <!-- GitHub Skills start -->
 ## 🎓Tools and Technologies:
-- **Programming Languages**
-<center>
-	<table>
-		<tbody>
-			<tr>
-				<td width="25%" align="center">
-					<span><strong>Python</strong></span><br/>
-					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-				<td width="25%" align="center">
-					<span><strong>Java</strong></span><br/>
-					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-			</tr>
-		</tbody>
-	</table>
-</center>
 - **Frontend Development**
 <center>
 	<table>
@@ -190,19 +173,5 @@ Here are some ideas to get you started:
 </center>
 <!-- GitHub Skills end -->
 
-<!-- GitHub Activity start -->
-## 🏆My Github stats and Trophies:
-
-![Github
-stats](https://github-readme-stats.vercel.app/api?username=jscodelover&theme=solarized-dark&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jscodelover&theme=solarized-dark)
-
-<div align="left">
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscodelover&theme=solarized-dark" alt="jscodelover" /></p>
-</div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jscodelover&theme=solarized-dark)
-<!-- GitHub Activity end -->
 
 
