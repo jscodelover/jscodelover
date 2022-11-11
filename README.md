@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Manisha Basra</h1>
 <h3 align="center">A passionate FrontEnd Engineer from India</h3>
 
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=jscodelover&label=Profile%20views&color=0e75b6&style=flat" alt="jscodelover" /> </p>
-
 <p align="left"> <a
 			href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jscodelover" alt="jscodelover" /></a>
 	</p>
@@ -150,11 +147,11 @@ Here are some ideas to get you started:
 	<table>
 		<tbody>
 			<tr>
-				<td width="25%" align="center">
+			<td width="25%" align="center">
 					<span><strong>Linux</strong></span><br/>
 					<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
 					</td>
-				<td width="25%" align="center">
+			<td width="25%" align="center">
 					<span><strong>git</strong></span><br/>
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 					</td>
@@ -167,9 +164,9 @@ Here are some ideas to get you started:
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
 					</td>
 
-			</tr>
-		</tbody>
-	</table>
+		</tr>
+	</tbody>
+</table>
 </center>
 <!-- GitHub Skills end -->
 
