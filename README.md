@@ -134,13 +134,13 @@ Here are some ideas to get you started:
 					<span><strong>Figma</strong></span><br/>
 					<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 					</td>
-				<td width="25%" align="center">
-					<span><strong>Canva</strong></span><br/>
-					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-					</td>
-			</tr>
-		</tbody>
-	</table>
+			<td width="25%" align="center">
+			<span><strong>Canva</strong></span><br/>
+			<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+			</td>
+	</tr>
+	</tbody>
+</table>
 </center>
 - **Others**
 <center>
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
 					</td>
 
-	</tr>
+</tr>
 </tbody>
 </table>
 </center>
