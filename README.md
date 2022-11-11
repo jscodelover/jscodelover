@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
 					</td>
 
-	</tr>
+		</tr>
 	</tbody>
 </table>
 </center>
@@ -172,3 +172,17 @@ Here are some ideas to get you started:
 
 
 
+<!-- GitHub Activity start -->
+## 🏆My Github stats and Trophies:
+
+![Github
+stats](https://github-readme-stats.vercel.app/api?username=jscodelover&theme=solarized-dark&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jscodelover&theme=solarized-dark)
+
+<div align="left">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscodelover&theme=solarized-dark" alt="jscodelover" /></p>
+</div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jscodelover&theme=solarized-dark)
+<!-- GitHub Activity end -->
