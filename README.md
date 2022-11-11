@@ -164,8 +164,8 @@ Here are some ideas to get you started:
 					<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
 					</td>
 
-		</tr>
-	</tbody>
+	</tr>
+</tbody>
 </table>
 </center>
 <!-- GitHub Skills end -->
