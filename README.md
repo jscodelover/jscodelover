@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 	- 🔭 I’m working as Senior FrontEnd Engineer
 
-	- 🌱 I’m currently learning **programming and web development**
+	- 🌱 I’m currently learning programming and web development
 
-	- 👯 My Area of Interest's are **Web Development, Web Designing**
+	- 👯 My Area of Interest's are Web Development, Web Designing
 
 	- 👨‍💻 Write stuff on [Medium](https://medium.com/@jscodelover), [Dev.to](https://dev.to/jscodelover).
 
-	- ⚡ :earth_asia: You can find me on web: ***@jscodelover***
+	- You can find me on web: @jscodelover
 
 <p align="center"> <img src="https://gpvc.arturio.dev/jscodelover" alt="jscodelover" /> </p>
 
@@ -84,6 +84,10 @@ Here are some ideas to get you started:
 					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 				<td align="center">
+					<span><strong>Typescript</strong></span><br/>
+					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+					</td>
+				<td align="center">
 					<span><strong>Next</strong></span><br/>
 					<img height="64px" width="64px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg">
 					</td>
@@ -103,7 +107,7 @@ Here are some ideas to get you started:
 		</tbody>
 	</table>
 </center>
-- **Frontend Development**
+<!-- - **Frontend Development**
 <center>
 	<table>
 		<tbody>
@@ -124,8 +128,8 @@ Here are some ideas to get you started:
 			</tr>
 		</tbody>
 	</table>
-</center>
-- **Designing Softwares:**
+</center> -->
+- **Designing Softwares**
 <center>
 	<table>
 		<tbody>
@@ -142,7 +146,7 @@ Here are some ideas to get you started:
 	</tbody>
 </table>
 </center>
-- **Others: **
+- **Others**
 <center>
 	<table>
 		<tbody>
@@ -184,5 +188,5 @@ stats](https://github-readme-stats.vercel.app/api?username=jscodelover&theme=sol
 	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscodelover&theme=solarized-dark" alt="jscodelover" /></p>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jscodelover&theme=solarized-dark)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jscodelover&theme=solarized-dark) -->
 <!-- GitHub Activity end -->
