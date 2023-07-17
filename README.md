@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 	- You can find me on web: @jscodelover
 
-<p align="center"> <img src="https://gpvc.arturio.dev/jscodelover" alt="jscodelover" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 	<p align="left">
